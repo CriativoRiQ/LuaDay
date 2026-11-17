@@ -1,0 +1,3 @@
+A trilha esportiva do site é gerada no próprio navegador (não precisa de arquivo).
+Se quiser usar uma música própria, coloque aqui um arquivo trilha.mp3 (com direito de uso):
+o site passa a tocar o MP3, sempre começando em um ponto diferente.

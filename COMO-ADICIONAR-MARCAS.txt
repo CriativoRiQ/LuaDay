@@ -1,0 +1,25 @@
+COMO ADICIONAR OU REMOVER MARCAS NO SITE (sem mexer no index.html)
+===================================================================
+
+1. Patrocinador Master: coloque a logo na pasta  /patrocinador-master
+   Apoiadores:          coloque a logo na pasta  /apoiadores
+
+2. Nome do arquivo SEM acentos, SEM espaços e SEM apóstrofo (use hífen):
+      06-academia-exemplo.png
+   - O número no início define a ordem (opcional).
+
+3. Ajustes de visual (opcionais, no fim do nome, antes da extensão):
+   --branco  -> bolinha com fundo branco (logo colorida com fundo transparente)
+   --cheio   -> a imagem preenche a bolinha inteira (logo quadrada com fundo próprio)
+   Exemplos:  07-loja-x--branco.png    08-loja-y--cheio.jpg
+
+4. Nome exibido com acentos (opcional): abra o nomes.txt da pasta e acrescente uma linha
+      06-academia-exemplo = Academia Exemplo São José
+   Sem essa linha, o site mostra o nome do arquivo (ex.: "Academia Exemplo").
+
+5. Formatos: png, jpg, jpeg, webp, svg, gif, avif. Ideal: quadrada, até 600 x 600 px.
+
+6. Para remover uma marca, apague o arquivo da pasta (e a linha do nomes.txt, se houver).
+
+Requer hospedagem com PHP (Hostinger, HostGator, Locaweb, KingHost etc.).
+Sem PHP (Netlify, Vercel), o site usa o apoiadores.json, que precisa ser editado à mão.

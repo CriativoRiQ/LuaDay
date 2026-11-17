@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 40 760 800"><defs>
+    <style>
+      .st0 {
+        fill: url(#Gradiente_sem_nome_4);
+      }
+
+      .st1 {
+        fill: url(#Gradiente_sem_nome_2);
+      }
+
+      .st2 {
+        fill: url(#Gradiente_sem_nome_8);
+      }
+
+      .st3 {
+        fill: url(#Gradiente_sem_nome_6);
+      }
+
+      .st4 {
+        fill: url(#Gradiente_sem_nome_7);
+      }
+
+      .st5 {
+        fill: url(#Gradiente_sem_nome_5);
+      }
+
+      .st6 {
+        fill: url(#Gradiente_sem_nome_3);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" x1="19.02" y1="727.49" x2="19.87" y2="726.49" gradientTransform="translate(-12330.89 565227.22) scale(653.39 -776.93)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d978"/>
+      <stop offset=".48" stop-color="#f4cc60"/>
+      <stop offset="1" stop-color="#ddae39"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_3" data-name="Gradiente sem nome 3" x1="18.8" y1="727.75" x2="19.65" y2="726.75" gradientTransform="translate(-2860 176179.74) scale(167 -241.82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d978"/>
+      <stop offset=".48" stop-color="#f4cc60"/>
+      <stop offset="1" stop-color="#ddae39"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_4" data-name="Gradiente sem nome 4" x1="18.86" y1="728.1" x2="19.71" y2="727.1" gradientTransform="translate(-2494.24 115084.25) scale(161.61 -157.73)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d978"/>
+      <stop offset=".48" stop-color="#f4cc60"/>
+      <stop offset="1" stop-color="#ddae39"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_5" data-name="Gradiente sem nome 5" x1="18.96" y1="728.18" x2="19.81" y2="727.18" gradientTransform="translate(-2902 113961.82) scale(174 -156.18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d978"/>
+      <stop offset=".48" stop-color="#f4cc60"/>
+      <stop offset="1" stop-color="#ddae39"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_6" data-name="Gradiente sem nome 6" x1="18.88" y1="727.85" x2="19.73" y2="726.85" gradientTransform="translate(-4000.56 160202.7) scale(224.45 -219.52)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d978"/>
+      <stop offset=".48" stop-color="#f4cc60"/>
+      <stop offset="1" stop-color="#ddae39"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_7" data-name="Gradiente sem nome 7" x1="18.88" y1="727.99" x2="19.73" y2="726.99" gradientTransform="translate(-2949.55 132500.3) scale(181.28 -181.39)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d978"/>
+      <stop offset=".48" stop-color="#f4cc60"/>
+      <stop offset="1" stop-color="#ddae39"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_8" data-name="Gradiente sem nome 8" x1="18.98" y1="727.84" x2="19.83" y2="726.84" gradientTransform="translate(-3706.63 189922.45) scale(227.38 -260.34)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9d978"/>
+      <stop offset=".48" stop-color="#f4cc60"/>
+      <stop offset="1" stop-color="#ddae39"/>
+    </linearGradient>
+  </defs><path class="st1" d="M555,59C365,13,126,166,76,355c-58,218,113,452,341,470,116,14,228-28,301-96-130,94-307,86-430-4-138-101-171-273-101-430C255,142,407,60,555,59Z"/></svg>

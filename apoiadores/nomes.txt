@@ -1,0 +1,7 @@
+# Nome exibido no site (opcional). Formato:  nome-do-arquivo-sem-extensao = Nome com acentos
+# Se a marca não estiver aqui, o site usa o próprio nome do arquivo.
+01-mc-suplementos--cheio = MC Suplementos
+02-soares-fruits-delivery--cheio--branco = Soares Fruit's Delivery
+03-riq-grafica-e-impressao-digital = RIQ Gráfica e Impressão Digital
+04-eliel-moveis--branco = Eliel Móveis
+05-rota-protecao-veicular--cheio = Rota Proteção Veicular
